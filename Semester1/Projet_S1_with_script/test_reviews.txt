@@ -1,0 +1,2 @@
+BEGIN NOW I like chocolate ice-cream. END
+BEGIN NOW I do not like chocolate pudding. END
